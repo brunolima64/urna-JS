@@ -1,9 +1,8 @@
 #Candidatos ( VEREADOR ) 
 
-1)
-  numero: '38111' <br/>
-  nome: 'Fulano de Tal' <br/>
-  partido: 'ABC' <br/>
+1) numero: '38111' <br/>
+   nome: 'Fulano de Tal' <br/>
+   partido: 'ABC' <br/>
 
 2)
   numero: '77222' <br/>
