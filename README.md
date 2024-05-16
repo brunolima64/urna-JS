@@ -4,9 +4,9 @@
    nome: 'Fulano de Tal' <br/>
    partido: 'ABC' <br/>
 
-2)numero: '77222' <br/>
-  nome: 'Beltrano da Silva' <br/>
-  partido: 'DEFG' <br/>
+2) numero: '77222' <br/>
+   nome: 'Beltrano da Silva' <br/>
+   partido: 'DEFG' <br/>
 
 #Candidatos prefeito ( PREFEITO ) 
 
